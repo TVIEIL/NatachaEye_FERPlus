@@ -1,0 +1,16 @@
+# Environnements virtuels
+venv/
+.venv/
+miniconda3/
+
+# Fichiers Python
+__pycache__/
+*.pyc
+
+# Config et logs
+.env
+*.log
+natacha_logs.txt
+
+# Dossiers systèmes
+.DS_Store
