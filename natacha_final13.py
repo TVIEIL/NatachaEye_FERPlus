@@ -1,3 +1,14 @@
+# ==============================================================================
+# @MeshTag       : Natacha_Oeil
+# @Project       : NatachaEye_FERPlus
+# @Version       : 1.0.0
+# @Author        : Thierry VIEIL
+# @Licence       : Apache License 2.0
+# @Description   : Module de vision temps réel (YOLOv8 + FER+). 
+#                  Analyse l'interlocuteur, son émotion et sa tenue vestimentaire.
+#                  Envoie les métadonnées via MQTT vers l'assistant Natacha.
+# ==============================================================================
+
 import cv2
 import numpy as np
 import threading
