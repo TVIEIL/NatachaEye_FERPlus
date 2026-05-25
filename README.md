@@ -44,12 +44,11 @@ Cette version marque une évolution majeure par rapport au projet initial (FER).
    ```bash
    cp .env.example .env
    # Édite .env avec tes paramètres (MQTT_BROKER, etc.)
-   ```
 
-4. **Lancement :**
-  ```bash
-  ./demarrage_oeil.sh
-  ```
+ 4. **Lancement :**
+    ```bash
+    ./demarrage_oeil.sh
+    ```
 
 ## 🛠️ Debugging
 
