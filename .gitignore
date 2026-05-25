@@ -14,3 +14,7 @@ natacha_logs.txt
 
 # Dossiers systèmes
 .DS_Store
+
+# Modèles IA (ne pas pousser sur GitHub)
+*.pt
+*.onnx

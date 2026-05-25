@@ -1,0 +1,11 @@
+# IA et Vision
+ultralytics
+torch
+torchvision
+numpy
+onnxruntime
+
+# Communication et Utils
+paho-mqtt
+python-dotenv
+psutil
