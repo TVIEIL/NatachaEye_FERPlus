@@ -18,3 +18,4 @@ natacha_logs.txt
 # Modèles IA (ne pas pousser sur GitHub)
 *.pt
 *.onnx
+dev/
