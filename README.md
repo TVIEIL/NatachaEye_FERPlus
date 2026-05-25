@@ -39,14 +39,14 @@ Cette version marque une évolution majeure par rapport au projet initial (FER).
    ```bash
    pip install -r requirements.txt
 
-3.**Configuration :**
+3. **Configuration :**
    Copie le fichier .env.example en .env et adapte les paramètres MQTT :
    ```bash
    cp .env.example .env
    # Édite .env avec tes paramètres (MQTT_BROKER, etc.)
    ```
 
-4.**Lancement :**
+4. **Lancement :**
   ```bash
   ./demarrage_oeil.sh
   ```
